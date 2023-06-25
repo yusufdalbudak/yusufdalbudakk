@@ -7,5 +7,6 @@ Hello there! :wave: I'm Yusuf Dalbudak. :robot:
 # What we are doing now:
 I finished my 3rd year of university. And I am looking for an internship in the field of cyber security.
 
-#Languages:point_left:
+#Languages
+
 Python, Jscript, C#, MsSQL
