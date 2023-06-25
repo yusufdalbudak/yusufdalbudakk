@@ -9,4 +9,4 @@ I finished my 3rd year of university. And I am looking for an internship in the 
 
 #Languages
 
-Python, Jscript, C#, MsSQL
+:point_right: Python, Jscript, C#, MsSQL
