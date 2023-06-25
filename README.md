@@ -1,7 +1,7 @@
-# yusufdalbudakk :robot:
+# yusufdalbudakk 
+Hello there! I'm Yusuf Dalbudak. :robot:
 
- Hello there! I'm Yusuf Dalbudak. 
-
+ 
  I'm currently working on Forensic, Kali Linux, Network security, IT Security and I am improving myself on the areas evaluated within this framework.
 
 # What we are doing now:
